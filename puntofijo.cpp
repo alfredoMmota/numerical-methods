@@ -1,4 +1,4 @@
-//Code for the progran to calculated the method "iteracion de punto fijo" V 1.0.0//
+//program to calculated the method "iteracion de punto fijo" V 1.0.0//
 #include "puntofijo.h"
 #include "ui_puntofijo.h"
 #include <cmath>
