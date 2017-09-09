@@ -67,3 +67,4 @@ void puntofijo::Limpiar(){
     ui->Resultado->clear();/*Se limpia la impresion del resultado*/
                             /*cleaning the result in screen*/
 }
+//code elaborated by Jose Alfredo Mendoza Mota,Gibran Omar Estrada Gomez,Antonio Herrera Diaz y Ana Karen Razo Francisco//
